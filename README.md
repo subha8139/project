@@ -1,4 +1,4 @@
-1. Spam Detection using Naive Bayes
+✔1. Spam Detection using Naive Bayes
 
 Converts messages into word counts, trains a model, and predicts spam/non-spam.
 
